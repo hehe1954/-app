@@ -1,0 +1,5 @@
+{
+  "name": "PixelPress - Smart Image Compressor图片压缩",
+  "description": "A modern, high-performance image compression tool running entirely in your browser. Support for batch processing, custom quality settings, and format conversion.\n图片压缩工具",
+  "requestFramePermissions": []
+}
